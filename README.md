@@ -21,8 +21,8 @@ Notebook contendo EDA +  Notebook principal contendo todo o pipeline: Pré-proce
 ### 1. Preparação do Ambiente
 Clone este repositório e instale as dependências:
 ```bash
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-cd SEU_REPOSITORIO
+git clone https://github.com/CauaEmano/Computer-Vision-Ligia
+cd Computer-Vision-Ligia
 pip install -r requirements.txt
 ```
 
